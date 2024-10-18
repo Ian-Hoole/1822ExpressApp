@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     // set response content    
         res.send(`<html>
                     <body>
-                        <h2>Github change</h2>
+                        <h2>Github Changes</h2>
                         <h1>New update</h1>
                         <p>Lol</p>
                         <div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
